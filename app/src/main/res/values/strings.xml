@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Files Scanner</string>
+    <string name="stop_string">Stop</string>
+    <string name="start_string">Start</string>
+    <string name="permission_denied_string">Permission Denied</string>
+    <string name="retry_string">Retry</string>
+    <string name="loading_string">Loading...</string>
+    <string name="not_scanned_string">Press Scan button</string>
+    <string name="share">Share</string>
+    <string name="share_using">Share using</string>
+    <string name="most_used_string">Most Used</string>
+    <string name="frequency_string">Frequency</string>
+    <string name="clickHereToOpen">Click to Open</string>
+    <string name="scan_on_going">Scan running</string>
+    <string name="big_files_list">Big Files List</string>
+    <string name="most_files_list">Most Used files list</string>
+</resources>
